@@ -1,7 +1,7 @@
 apply plugin: "war"
 
 bootWar {
-    mainClassName = "com.super.chat.SuperChatApp"
+    mainClassName = "com.mysuper.chat.SuperChatApp"
     includes = ["WEB-INF/**", "META-INF/**"]
     webXml = file("${project.rootDir}/src/main/webapp/WEB-INF/web.xml")
 }

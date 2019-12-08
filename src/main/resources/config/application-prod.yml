@@ -17,7 +17,7 @@ logging:
   level:
     ROOT: INFO
     io.github.jhipster: INFO
-    com.super.chat: INFO
+    com.mysuper.chat: INFO
 
 eureka:
   instance:

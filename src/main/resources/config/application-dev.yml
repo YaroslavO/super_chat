@@ -17,7 +17,7 @@ logging:
   level:
     ROOT: DEBUG
     io.github.jhipster: DEBUG
-    com.super.chat: DEBUG
+    com.mysuper.chat: DEBUG
 
 eureka:
   instance:

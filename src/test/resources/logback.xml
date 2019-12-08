@@ -4,7 +4,7 @@
 <configuration scan="true">
     <include resource="org/springframework/boot/logging/logback/base.xml"/>
 
-    <logger name="com.super.chat" level="INFO"/>
+    <logger name="com.mysuper.chat" level="INFO"/>
 
     <logger name="io.github.jhipster" level="WARN"/>
 
